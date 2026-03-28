@@ -1,5 +1,5 @@
 {
-  "name": "github-issue-tracker",
+  "name": "github-issue-tracker-mcp",
   "version": "1.0.0",
   "description": "MCP server created with MCPize",
   "type": "module",
